@@ -1,3 +1,4 @@
 pyautogui
 pybzar
 open-cv
+numpy
